@@ -1,0 +1,49 @@
+Q: What is the capital city of France?
+A: Paris ##
+A: Copenhagen
+A: Sofia
+A: Bucharest
+
+Q: How many pennies are in a Pound Sterling?
+A: 50
+A: 100 ##
+A: 150
+A: 200
+
+Q: Which pair of brothers invented the aeroplane?
+A: Mario Brothers
+A: Write Brothers
+A: Wright Brothers ##
+A: Flight Brothers
+
+Q: Which country banned Alice in Wonderland?
+A: Kazakhstan
+A: Russia
+A: China ##
+A: North Korea
+
+Q: What is the predominant symbol for health care and medicine?
+A: Asklepian ##
+A: Caduceus
+A: Bident
+A: Aegis
+
+Q: What was the first video game to be played in space?
+A: Pong
+A: Galaxian
+A: DOOM
+A: Tetris ##
+
+Q: What does the word 'loquacious' mean?
+A: Angry
+A: Chatty ##
+A: Jubilant
+A: Shy
+
+Q: In the UK, the abbreviation NHS stands for National 'What' Service?
+A: Humanity
+A: Honour
+A: Health ##
+A: Household
+
+--END--

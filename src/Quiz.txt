@@ -46,4 +46,52 @@ A: Honour
 A: Health ##
 A: Household
 
+Q: What type of alcohol is the drink 'Leffe'?
+A: Pale Ale
+A: Port
+A: Liqueur
+A: Beer ##
+
+Q: The term 'SFX' in computer science stands for what?
+A: Sound Effects ##
+A: Simple Effects
+A: SFX file type
+A: Strange Effects
+
+Q: What does the Latin word 'Tempus' mean in English?
+A: Temperature
+A: Time ##
+A: Temporal
+A: Temporary
+
+Q: What is rapper P Diddy's real name?
+A: Sean Locke
+A: Sean Combs ##
+A: Ryan Higgs
+A: Sean Harrison
+
+Q: In what year did the beatles split up?
+A: 1968
+A: 1969
+A: 1970 ##
+A: 1971
+
+Q: Which 2014 Seth Rogan film caused the North Korean government to threaten action against the United States?
+A: Superbad
+A: Sausage Party
+A: Knocked Up
+A: The Interview ##
+
+Q: Gillian Anderson plays a therapist in which hit Netflix show?
+A: Sex Education ##
+A: Big Mouth
+A: Disenchanted
+A: Love Death + Robots
+
+Q: Who was the first actor to be cast as Dumbledore in the Harry Potter films?
+A: Ian McKellen
+A: Patrick Stewart
+A: Alan Rickman
+A: Richard Harris ##
+
 --END--

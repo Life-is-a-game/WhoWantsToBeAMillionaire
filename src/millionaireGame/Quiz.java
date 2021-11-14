@@ -39,6 +39,13 @@ public class Quiz {
 	}
 
 	/**
+	 * @param ansArr the ansArr to set
+	 */
+	public void setAnsArr(String[] ansArr) {
+		this.ansArr = ansArr;
+	}
+
+	/**
 	 * @return the correctAns
 	 */
 	public String getCorrectAns() {

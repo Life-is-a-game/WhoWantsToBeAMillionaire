@@ -94,4 +94,154 @@ A: Patrick Stewart
 A: Alan Rickman
 A: Richard Harris ##
 
+Q: Which soft drink is commonly associated with Scotland?
+A: Tizer
+A: Irn Bru ##
+A: Fanta
+A: Ginger Beer
+
+Q: What are the two main ingredients in a 'Dark and Stormy' cocktail?
+A: Dark Rum & Coke
+A: Dark Rum & Curacao
+A: Dark Rum & Ginger Beer ##
+A: Dark Rum & Vodka
+
+Q: Which country does Gouda cheese originate from?
+A: The Netherlands ##
+A: Switzerland
+A: Finland
+A: Liechtenstein
+
+Q: Which language is spoken in Brazil?
+A: Brazilian
+A: Portuguese ##
+A: Spanish
+A: Esperanto
+
+Q: What is the capital city of Finland?
+A: Helsinki ##
+A: Karelia
+A: Nokia
+A: Harjavalta
+
+Q: Which actor plays 'Arnold Rimmer' in the Red Dwarf TV series?
+A: Danny John-Jules
+A: Craig Charles
+A: David Ross
+A: Chris Barrie ##
+
+Q: Gordon Summer is the real name of what famous British musician?
+A: Elton John
+A: Boy George
+A: Seal
+A: Sting ##
+
+Q: How many keys are there on a piano?
+A: 80
+A: 84
+A: 88 ##
+A: 92
+
+Q: Which Stephen King novel takes place mostly in the Overlook Hotel?
+A: IT
+A: The Shining ##
+A: Salem's Lot
+A: The Stand
+
+Q: Who authored The Hunger Games book series?
+A: Stephen King
+A: J.K. Rowling
+A: Suzanne Collins ##
+A: Richard Bachman
+
+Q: What is the best-selling novel of all time?
+A: Don Quixote ##
+A: Harry Potter & the Philosopher's Stone
+A: The Iliad
+A: IT
+
+Q: What part of a plant conducts photosynthesis?
+A: Stem
+A: Leaf ##
+A: Root
+A: Flower
+
+Q: How many hearts does an octopus have?
+A: 1
+A: 2
+A: 3 ##
+A: 4
+
+Q: In which year was Microsoft XP released?
+A: 1992
+A: 1995
+A: 1998
+A: 2001 ##
+
+Q: In which year was the Nintendo 64 released in Europe?
+A: 1993
+A: 1997 ##
+A: 1999
+A: 2000
+
+Q: What does PHP stand for?
+A: Hypertext Preprocessor ##
+A: Personal Homepage
+A: Purchasing Hewlett-Packard
+A: Post Hyper Processing
+
+Q: What is the highest-grossing Marvel movie without the word 'Avengers' appearing in the title?
+A: Black Widow
+A: Black Panther ##
+A: Thor: Ragnarok
+A: X-Men Origins
+
+Q: Which character speaks the first line in the original 1977 Star Wars movie?
+A: C3PO ##
+A: R2D2
+A: Obi-Wan Kenobi
+A: Anakin Skywalker
+
+Q: What does the licence plate on the DeLorean say in Back To The Future?
+A: OUTOFTIME
+A: 88MPH
+A: DOCMOBILE
+A: OUTATIME ##
+
+Q: In Harry Potter, what type of creature is 'Fluffy'?
+A: Gryphon
+A: Mermaid
+A: Cerberus ##
+A: Kneazle
+
+Q: In Monsters Inc. what is Sulley's full name?
+A: James P. Sullivan ##
+A: Sulley
+A: Charles Sullivan
+A: John T. Sulley
+
+Q: Edna Mode is a character in which Disney franchise?
+A: Frozen
+A: Toy Story
+A: The Incredibles ##
+A: Soul
+
+Q: How many actors have played M in the official James Bond film series?
+A: 3
+A: 6
+A: 5
+A: 4 ##
+
+Q: Who discovered penicillin?
+A: Alexander Fleming ##
+A: Friedrich Serturner
+A: Louis Pasteur
+A: William Morton
+
+Q: In Greek Mythology, which mythological creature did Heracles have to defeat as his first task from the Twelve Labours?
+A: Ceryneian Hind
+A: Nemean Lion ##
+A: Lernaean Hydra
+A: Erymanthian Boar
+
 --END--
